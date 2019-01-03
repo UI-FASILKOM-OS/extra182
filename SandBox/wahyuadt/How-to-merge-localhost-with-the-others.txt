@@ -1,0 +1,8 @@
+How to Merge our localhost with the others 
+
+Step 1 :
+
+Make sure you already have your own local github pages, if you don't have it. Create it.
+
+Step 2 :
+
