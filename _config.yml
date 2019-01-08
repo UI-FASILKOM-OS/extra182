@@ -1,19 +1,92 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Extra182
-description: Hello, we're students at Faculty of Computer Science, <br/>
-University of Indonesia. <br/>
-In this part we're gonna talk about how to use jekyll static generator properly to our github pages. <br/>
-But first, please allow us to introduce ourselves; <br/>
-Fadhriz Q. A. <br/>
-Nardiena A. P. <br/>
-Wahyu A.D.T. <br/>
+description: # this means to ignore newlines until "baseurl:"
+
+  Hello, we're students at Faculty of Computer Science, <br />
+  University of Indonesia. <br />
+
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-leap-day
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+#CAUTION IF YOU'RE USING LOCALHOST, THEN YOU NEED TO IMPLEMENT THE LINE BELOW (github: [metadata])
+#IF YOU WANT TO LOOK AT YOUR GITHUB.IO, THEN YOU NEED TO UNCOMMENT (ZIP, TAR, AND REPOSITORY, AND ADD github: )
+github: [metadata]
+
+
 encoding: UTF-8
 timezone: Asia/Jakarta
 show_downloads: true
 share: true
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Google Analytics
 #google_analytics: UA-89852122-1
+
 plugins:
-  -jekyll-gist
-  -jemoji
-markdown: kramdown
-github: [metadata]
+  - jekyll-feed
+  - jekyll-gist
+  - jemoji
+  - jekyll-github-metadata
+
+# CAN CHANGE
+# encoding: UTF-8
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# future: true
+# jailed: false
+# gfm_quirks: paragraph_end
+# CAN NOT CHANGE
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
