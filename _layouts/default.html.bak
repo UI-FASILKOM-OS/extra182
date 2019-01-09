@@ -8,14 +8,65 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+    <style>
+    ul {
+      list-style-type: none;
+      overflow: hidden;
+    }
+
+    li {
+      float: left;
+      transition-duration: 0.5s;
+    }
+
+    li a, .dropbtn {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover, .dropdown:hover .dropbtn {
+      background-color: red;
+      cursor: pointer;
+    }
+
+    li.dropdown {
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 9;
+    }
+
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    .dropdown-content a:hover {background-color: #f1f1f1}
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    </style>
   </head>
   <body>
-    {% include nav.html %}
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -23,8 +74,29 @@
 
       <div id="banner">
         <span id="logo"></span>
-
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="etc">
+          <ul>
+            <li><a href="/" class="hom"><strong>Home</strong></a>
+            <li><a href="/about" class="abo"><strong>About</strong></a>
+            <li class="dropdown">
+              <a href="javascript:void(0)" class="dropbtn"><strong>How To</strong></a>
+              <div class="dropdown-content">
+                <a href="/step/install.html">Install</a>
+                <a href="/step/use.html">Use</a>
+                <a href="/step/merge.html">Merge Jekyll with Github-Pages</a>
+              </div>
+            </li>
+            <li class="dropdown">
+              <a href="javascript:void(0)" class="dropbtn"><strong>Author</strong></a>
+              <div class="dropdown-content">
+                <a href="/author/farz.html">Farz-Hkh</a>
+                <a href="/author/nardiena.html">NardienaPratama</a>
+                <a href="/author/wahyu.html">WahyuADT</a>
+              </div>
+            </li>
+          </ul>
+        </div>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
