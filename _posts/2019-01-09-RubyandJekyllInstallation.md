@@ -10,4 +10,16 @@
 
 ![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/rubyinstaller.JPG)
 
-4. 
+4. After installing the RubyInstaller, open a command prompt window from the Start menu. Now, we have to install Jekyll and Bundler using (step 3):
+
+```
+gem install jekyll bundler
+```
+
+5. Then. we check if jekyll has been installed properly by running:
+
+```
+jekyll -v
+```
+
+And there you go, Ruby and Jekyll has been installed on your PC! :]
