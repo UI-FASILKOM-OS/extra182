@@ -48,7 +48,7 @@ timezone: Asia/Jakarta
 show_downloads: true
 share: true
 collections:
-  authors:
+  authors: 
     output: true
 
 defaults:
