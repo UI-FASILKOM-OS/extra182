@@ -16,8 +16,8 @@
 title: Extra182
 description: # this means to ignore newlines until "baseurl:"
 
-  Hello, we're students at Faculty of Computer Science, <br />
-  University of Indonesia. <br />
+  Hello, we're students from the Faculty of Computer Science,
+  University of Indonesia. <br /> Hope you find our website useful. :]
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -48,7 +48,7 @@ timezone: Asia/Jakarta
 show_downloads: true
 share: true
 collections:
-  authors: 
+  authors:
     output: true
 
 defaults:

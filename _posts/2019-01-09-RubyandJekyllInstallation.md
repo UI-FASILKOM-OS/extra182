@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Ruby and Jekyll Installation Step-by-step
+----
 
 #### 1. To install Jekyll, we first have to install the RubyInstaller:
 
