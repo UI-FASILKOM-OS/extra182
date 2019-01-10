@@ -25,7 +25,7 @@ Well, we can find out here
 ### How To Install
 After you done that we're gonna install jekyll and ruby-withdevkit
 
-[Install jekyll and ruby](./logs.md)
+[Install jekyll and ruby](2019/01/09/RubyandJekyllInstallation.html)
 
 Next, we're gonna try to install the bundle of it
 
