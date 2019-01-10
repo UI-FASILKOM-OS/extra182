@@ -9,3 +9,7 @@
 
 
 * Post 1: [click here](2019/01/09/RubyandJekyllInstallation.html)
+
+* Post 2: [Click Here](2019/01/09/GitHubPages.html)
+
+
