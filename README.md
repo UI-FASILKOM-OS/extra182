@@ -8,8 +8,13 @@
   * GitHub Pages 2 Jekyll: [https://rms46.github.io/webweb9/](https://rms46.github.io/webweb9/) --- GitHub [https://github.com/rms46/webweb9](https://github.com/rms46/webweb9)
 
 
+<<<<<<< HEAD
 * Post 1: [click here](2019/01/09/RubyandJekyllInstallation.html)
 
 * Post 2: [Click Here](2019/01/09/GitHubPages.html)
 
 
+=======
+## Making Your Own GitHub Pages Site
+1. [How to Install Ruby and Jekyll on your PC (Windows)](2019/01/09/RubyandJekyllInstallation.html)
+>>>>>>> bd6988a7fa497cd83ea69cbe96b645c928bd9452

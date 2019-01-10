@@ -1,23 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Extra182
 description: # this means to ignore newlines until "baseurl:"
 
-  Hello, we're students at Faculty of Computer Science, <br />
-  University of Indonesia. <br />
+  Hello, we're students from the Faculty of Computer Science,
+  University of Indonesia. <br /> Hope you find our website useful. :]
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,10 +23,9 @@ theme: jekyll-theme-leap-day
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#CAUTION IF YOU'RE USING LOCALHOST, THEN YOU NEED TO IMPLEMENT THE LINE BELOW (github: [metadata])
-#IF YOU WANT TO LOOK AT YOUR GITHUB.IO, THEN YOU NEED TO UNCOMMENT (ZIP, TAR, AND REPOSITORY, AND ADD github: )
-github: [metadata]
-
+github:
+  zip_url: https://github.com/UI-FASILKOM-OS/extra182/zipball/master
+  tar_url: https://github.com/UI-FASILKOM-OS/extra182/tarball/master
 
 encoding: UTF-8
 timezone: Asia/Jakarta
