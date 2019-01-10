@@ -8,48 +8,58 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <style>
-    ul {
-      list-style-type: none;
+    .navbar {
       overflow: hidden;
+      font-family: Arial, Helvetica, sans-serif;
     }
 
-    li {
+    .navbar a {
       float: left;
-    }
-
-    li a, .dropbtn {
-      display: inline-block;
+      font-size: 16px;
       color: white;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
     }
 
-    li a:hover, .dropdown:hover .dropbtn {
-      background-color: red;
+    .dropdown {
+      float: left;
+      overflow: hidden;
     }
 
-    li.dropdown {
-      display: inline-block;
+    .dropdown .button {
+      cursor: pointer;
+      font-size: 16px;
+      border: none;
+      outline: none;
+      color: white;
+      padding: 14px 16px;
+      background-color: inherit;
+      font-family: inherit;
+      margin: 0;
+    }
+
+    .navbar a:hover, .dropdown:hover .button, .button:focus {
+      background-color: red;
     }
 
     .dropdown-content {
       display: none;
       position: absolute;
-      background-color: #f9f9f9;
+      background-color: #FFD700;
       min-width: 160px;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       z-index: 1;
     }
 
     .dropdown-content a {
+      float: none;
       color: black;
       padding: 12px 16px;
       text-decoration: none;
@@ -57,12 +67,13 @@
       text-align: left;
     }
 
-    .dropdown-content a:hover {background-color: #f1f1f1}
-
-    .dropdown:hover .dropdown-content {
-      display: block;
+    .dropdown-content a:hover {
+      background-color: #ddd;
     }
 
+    .show {
+      display: block;
+    }
     </style>
   </head>
   <body>
@@ -74,24 +85,44 @@
       <div id="banner">
 
         <span class="etc"></span>
-          <ul>
-            <li><a href="/about" class="button"><strong>About</strong></a></li>
-            <li><a href="/step/" class="button"><strong>How To</strong></a></li>
-            <li><a href="/author/" class="button"><strong>Author</strong></a></li>
-            <li><a href="/" class="button"><strong>Home</strong></a></li>
+          <div class="navbar">
+            <a href="/" class="button"><strong>Home</strong></a>
+            <div class="dropdown">
+              <button class="button" onclick="myFunction()">How To
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content" id="myDropdown">
+                <a href="/step/install.html">Install</a>
+                <a href="/step/use.html">Use</a>
+                <a href="/step/merge.html">Merge</a>
+              </div>
+            </div>
+            <div class="dropdown">
+              <button class="button" onclick="myFunction2()">Author
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content" id="myDropdown2">
+                <a href="/author/farz.html">Fadhriz</a>
+                <a href="/author/nardiena.html">Nardiena</a>
+                <a href="/author/wahyu.html">Wahyu</a>
+              </div>
+            </div>
+            <a href="/about" class="button"><strong>About</strong></a>
             <span id="logo"></span>
             <a href="{{ site.github.repository_url }}" class="button"><strong>View on GitHub</strong></a>
-          </ul>
-        {% if site.show_downloads %}
-
-          <div class="downloads">
-            <span>Downloads:</span>
-            <ul>
-              <li><a href="{{ site.github.zip_url }}" class="button">ZIP</a></li>
-              <li><a href="{{ site.github.tar_url }}" class="button">TAR</a></li>
-            </ul>
+            {% if site.show_downloads %}
+            <div class="downloads">
+              <span>Downloads:</span>
+              <ul>
+                <li><a href="{{ site.github.zip_url }}" class="button">ZIP</a></li>
+                <li><a href="{{ site.github.tar_url }}" class="button">TAR</a></li>
+              </ul>
+            </div>
+            {% endif %}
           </div>
-        {% endif %}
+
+
+
       </div><!-- end banner -->
 
     <div class="wrapper">
@@ -120,5 +151,35 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script>
+    /* When the user clicks on the button,
+    toggle between hiding and showing the dropdown content */
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
+
+    function myFunction2() {
+      document.getElementById("myDropdown2").classList.toggle("show");
+    }
+
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function(e) {
+      if (!e.target.matches('.button')) {
+      var myDropdown = document.getElementById("myDropdown");
+        if (myDropdown.classList.contains('show')) {
+          myDropdown.classList.remove('show');
+        }
+      }
+    }
+    window.onclick = function(e) {
+      if (!e.target.matches('.button')) {
+      var myDropdown2 = document.getElementById("myDropdown2");
+        if (myDropdown2.classList.contains('show')) {
+          myDropdown2.classList.remove('show');
+        }
+      }
+    }
+    </script>
   </body>
 </html>
