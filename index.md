@@ -25,11 +25,11 @@ Well, we can find out here
 ### How To Install
 After you done that we're gonna install jekyll and ruby-withdevkit
 
-[Install jekyll and ruby](2019/01/09/RubyandJekyllInstallation.html)
+[Install jekyll and ruby](/step/2019-01-09-RubyandJekyllInstallation.html)
 
 Next, we're gonna try to install the bundle of it
 
-[Command using jekyll with bundle](./Logs.md).
+[Command using jekyll with bundle](/step/CommandsUsingJekyll.html).
 
 ### Default Theme
 Now, you see the default theme which is minima, you can actually change the theme anything you like, but first make sure it is supported theme. Unless you want to create your own theme.
