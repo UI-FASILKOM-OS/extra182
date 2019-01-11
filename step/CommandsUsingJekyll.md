@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+# How to Integrate Your GitHub Repository with Jekyll
+----
 ### Step 1
 Afterwards, on the same directory, create a new Jekyll site using:
 ```
@@ -54,7 +60,7 @@ bundle update
 ```
 
 
-### Step 5 
+### Step 5
 To run the website (the GitHub repo has now been integrated with Jekyll), open the command prompt in this directory and run:
 ```
 bundle exec jekyll serve
