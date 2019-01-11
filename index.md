@@ -20,7 +20,7 @@ Hello, welcome to this GitHub-Pages.
 Do you know that we can use jekyll theme static here along with GitHub-Pages..?
 Well, we can find out here
 
-[Create Github Pages](./Logs.md).
+[Create Github Pages](2019/01/09/GitHubPages.html).
 
 ### How To Install
 After you done that we're gonna install jekyll and ruby-withdevkit
