@@ -16,14 +16,19 @@ Farz-hkh, NardienaPratama, WahyuADT.
 
 ---
 ### Introduction
-Hello, welcome to this GitHub-Pages.
-Do you know that we can use jekyll theme static here along with GitHub-Pages..?
-Well, we can find out here
+Hello, welcome to this Extra182 page.
 
-[Create Github Pages](2019/01/09/GitHubPages.html).
+In this website, you can find some tutorials regarding how to develop your own GitHub Pages
 
-### How To Install
-After you done that we're gonna install jekyll and ruby-withdevkit
+### Establishing a GitHub Pages
+At first you need to create the basic GitHub Pages
+
+Follow this link for making the GitHub Pages
+
+[Create Github Pages](/step/2019-01-09-GitHubPages.html).
+
+### Installing Jekyll and Ruby
+After that, we will install Jekyll and Ruby-withdevkit
 
 [Install jekyll and ruby](/step/2019-01-09-RubyandJekyllInstallation.html)
 
@@ -31,7 +36,7 @@ Next, we're gonna try to install the bundle of it
 
 [How to Integrate Your GitHub Repository with Jekyll](/step/CommandsUsingJekyll.html).
 
-### Default Theme
+### Applying Theme
 Now, you see the default theme which is minima, you can actually change the theme anything you like, but first make sure it is supported theme. Unless you want to create your own theme.
 [Github-Pages supported Themes](https://pages.github.com/themes/).
 
@@ -46,7 +51,7 @@ After that don't forget to do command
     bundle update
 ```
 
-### Start your own
+### Start Your Own
 Create yours now :
 
 [Create Github Pages](./Logs.md).
