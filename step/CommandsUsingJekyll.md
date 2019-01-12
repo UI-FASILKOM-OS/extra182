@@ -15,7 +15,7 @@ cd NAME-OF-SITE
 ### Step 2
 Then, copy all of the folders and files inside of this directory to our GitHub repository. In this example, the name of the GitHub repository is called 'test'.
 
-![img](https://raw.githubusercontent.com/nardienapratama/extra182/master/img/pathddrive.JPG)
+![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/pathddrive.JPG)
 
 
 ### Step 3
