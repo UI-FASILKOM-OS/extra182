@@ -5,9 +5,7 @@ layout: default
 # Github Pages Tutorials	: v.8.1.2019
 ----
 
-This tutorials is for making the github pages on github web version only.
-if you are looking for the tutorials using github desktop, go to this
-[LINK GITHUB DESKTOP TEST JANGAN LUPA DIGANTI](https://www.google.co.id/)
+These are the steps you need for creating your GitHub Pages
 
 
 ## Tutorial
