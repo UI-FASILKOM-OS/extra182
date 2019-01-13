@@ -10,7 +10,7 @@ title: Extra182
 
 # {{ page.title }}
 
-`Welcome!` -- This site is only for project, made by
+`Welcome!` -- This site is for a project, made by
 Farz-hkh, NardienaPratama, WahyuADT.
 
 
@@ -18,7 +18,7 @@ Farz-hkh, NardienaPratama, WahyuADT.
 ### Introduction
 Hello, welcome to this Extra182 page.
 
-In this website, you can find some tutorials regarding how to develop your own GitHub Pages
+In this website, you can find some tutorials regarding on how to develop your own GitHub Pages
 
 ### Establishing a GitHub Pages
 At first you need to create the basic GitHub Pages
@@ -50,10 +50,10 @@ After that don't forget to do command
     bundle update
 ```
 
-### Start Your Own
+<!-- ### Start Your Own
 Create yours now :
 
-[Create Github Pages](./Logs.md).
+[Create Github Pages](./Logs.md). -->
 
 
 
@@ -67,4 +67,4 @@ Create yours now :
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-Thanks for visiting.
+Thanks for visiting!
