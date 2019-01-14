@@ -1,3 +1,10 @@
+---
+short_name: wadt
+name: Wahyu Ananda Duli Tokan 
+position: Ketua 3
+---
+
+
 Herzlich Willkommen !!
 ---
 
