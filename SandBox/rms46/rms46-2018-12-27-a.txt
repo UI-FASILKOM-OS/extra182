@@ -1,0 +1,18 @@
+Thu Dec 27 12:41:00 WIB 2018
+============================
+
+- Pelajari situs http://webweb4.vlsm.org/ yang bersumber dari https://github.com/rms46/WebWeb4
+- punya/membuat akun github.com
+- buat pernyataan:
+-- nama; npm; ketuax; akun github.com
+-- permintaan mengerti "I"; memahami.
+- membuat proyek publik github: "extra182"
+- membuat github page.
+- menulis dalam folder "_posts/" 2018-12-27-log-langkah-langkah.txt
+- belajar jekyll sederhana
+- install jekyll di NoteBook anda/teman anda/tetangga (Windows10/Ubuntu/MacBook).
+- menampilkan Web lokal
+- menggabungkan jekyll dan github page.
+- memindahkan masing maing github page ke salah satu github page.
+- menulis petunjuk membuat github page/jekyll berdasarkan gabungan log
+
