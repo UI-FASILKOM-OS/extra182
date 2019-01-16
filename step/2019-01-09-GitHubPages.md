@@ -30,7 +30,7 @@ Then you will recieve an account verification link via Email
 
 (Time Estimation : less than 10 minutes)
 
-If you already logged in, the GitHub home pages will display the list of your owned repository. 
+If you already logged in, the GitHub home pages will display the list of your owned repository.
 Press the green New button on the top right
 
 
@@ -70,4 +70,4 @@ Your Github Pages have built and published when there is the green bar which sta
 
 Now that u have finished setting up your github pages setting, you can now access your GitHub Pages
 
-
+{%- include comment.html -%}

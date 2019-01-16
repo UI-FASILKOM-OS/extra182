@@ -27,3 +27,5 @@ gem "github-pages", group: :jekyll_plugins
 If you'd like to further customize your website, there would be additional instructions in the theme repository's README.md file, just as shown below.
 
 ![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/themereposettings.JPG)
+
+{%- include comment.html -%}

@@ -91,3 +91,6 @@ Next is try to git clone any website, go to that directory using cd command and 
 
 
 That's it you're done installing ruby withdevkit.
+
+
+{%- include comment.html -%}
