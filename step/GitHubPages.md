@@ -31,12 +31,12 @@ After you've done registering and logging in your account, you can go to the sam
 
 [https://github.com/](https://github.com/)
 
-But this time it will redirect you to your GitHub Account overview page. On the selection tab, choose Repository 
+But this time it will redirect you to your GitHub Account overview page. On the selection tab, choose Repository
 (Right next to the Overview tab)
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/GithubRepo.png)
 
-It will then displays all of your repository. For this tutorial, let's make a new one by clicking on the 
+It will then displays all of your repository. For this tutorial, let's make a new one by clicking on the
 Green square button on the right that looks like this
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/GithubNewRepo.png)
@@ -48,7 +48,7 @@ it will open up some form for you to fill about the New Repository you want to m
 You must fill in the name of your repository, we choose "example" as our repo name for this tutorial
 You may fill the description box or not since it is optional
 
-Then you choose whether it is private or a public repository. And Finally we tick the 
+Then you choose whether it is private or a public repository. And Finally we tick the
 "Initialize the repository with a README".
 
 This will make creating the Page easier since it is used for the GitHub Page. Then click "Create Repository" in the end.
@@ -81,7 +81,7 @@ For now choose Master Branch and then Save it
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/MasterSource.png)
 
-The GitHub Pages settings tab will now display this information 
+The GitHub Pages settings tab will now display this information
 
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/Publishing.png)
@@ -152,14 +152,8 @@ it is filled by default. Click "Commit changes" buttons to confirm
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/AcceptTheme.png)
 
-Then check your GitHub Pages again. It is now using the theme and will look like this 
+Then check your GitHub Pages again. It is now using the theme and will look like this
 
 ![img](https://raw.githubusercontent.com/wahyuadt/extra182/master/ScreenShot/GithubIo.png)
 
 That's it! now you are ready to setup your own GitHub Pages. Goodluck!
-
-
-
-
-
-
