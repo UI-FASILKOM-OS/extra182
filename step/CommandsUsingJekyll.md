@@ -65,6 +65,3 @@ To run the website (the GitHub repo has now been integrated with Jekyll), open t
 ```
 bundle exec jekyll serve
 ```
-
-
-{%- include comment.html -%}

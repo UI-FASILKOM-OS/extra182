@@ -111,6 +111,3 @@ gem update
 
 
 And there you go, Ruby and Jekyll has been installed on your PC! :]
-
-
-{%- include comment.html -%}

@@ -69,5 +69,3 @@ On the Website field, write down your github pages link, this will make you easi
 Your Github Pages have built and published when there is the green bar which states "Your site is published at https://username.github.io/reponame"
 
 Now that u have finished setting up your github pages setting, you can now access your GitHub Pages
-
-{%- include comment.html -%}
