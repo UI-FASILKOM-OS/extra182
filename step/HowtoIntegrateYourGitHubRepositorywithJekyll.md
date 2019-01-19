@@ -1,9 +1,8 @@
 ---
 layout: default
-title: How to Integrate Your GitHub Repository with Jekyll
 ---
 
-<!-- # How to Integrate Your GitHub Repository with Jekyll -->
+# How to Integrate Your GitHub Repository with Jekyll
 ----
 ### Step 1
 Firstly, you need to clone your GitHub repository to your local system.
@@ -35,12 +34,12 @@ jekyll new NAME-OF-SITE
 
 * The name doesn't have to be the same as the repository's name, but it is the same in this example.
 
-![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/ruby-jekyll-16a.JPG)
+![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/ruby-jekyll-16a.jpg)
 
 ```
 cd NAME-OF-SITE
 ```
-![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/ruby-jekyll-17.JPG)
+![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/nardienapratama/img/ruby-jekyll-17.jpg)
 
 ### Step 4
 Then, copy all of the folders and files inside of this Jekyll directory to our GitHub repository. In this example, the name of the GitHub repository is also called 'test-jekyll'.

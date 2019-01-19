@@ -1,8 +1,9 @@
 ---
 layout: default
-title: How to Change the Jekyll Theme with a GitHub-Pages Supported Theme
 
 ---
+# How to Change the Jekyll Theme with a GitHub-Pages Supported Theme
+----
 
 By default, your GitHub Pages site would have a minima theme. This is a step-by-step tutorial on how to change the theme of your GitHub Pages site with a GitHub-Pages supported theme,  which can be found in this [link](https://pages.github.com/themes/).
 

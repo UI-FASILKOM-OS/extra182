@@ -32,9 +32,10 @@ After that, we will install Jekyll and Ruby-withdevkit
 
 [Install jekyll and ruby](/step/2019-01-09-RubyandJekyllInstallation.html)
 
-Next, we're gonna try to install the bundle of it
+Next, we're gonna integrate our GitHub repository with Jekyll:
 
-[How to Integrate Your GitHub Repository with Jekyll](/step/CommandsUsingJekyll.html).
+[How to Integrate Your GitHub Repository with Jekyll](/step/HowtoIntegrateYourGitHubRepositorywithJekyll.html).
+
 
 ### Changing Jekyll Themes
 Now, as you can see, the default theme is minima - you can actually change the theme to whichever one you like. You can use one of the GitHub-Pages supported themes - the tutorial on changing to a GitHub-Pages supported theme can be found [here](/step/ChangeJekyllTheme.html) - or you can also create your own theme.
