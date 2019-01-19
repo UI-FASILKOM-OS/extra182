@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Pada tahap ini kita masih mencoba lebih lanjut untuk proses landing page, jadi pada saat pengguna memilih pada navbar maka akan ada landing page yang dipilih
 
 Seperti about

@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Saat ini masih belum ada kejelasan mengenai penggunaan Sandbox ini. Jadi untuk sementara kita dapat mencoba-coba untuk mengingat kembali apa saja yang kita sudah pelajari sebelumnya.
 
 1.Github pages

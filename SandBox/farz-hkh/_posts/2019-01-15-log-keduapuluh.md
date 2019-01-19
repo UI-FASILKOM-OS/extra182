@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Hari ini mari kita coba membuat comment pada github.
 
 Mari gunakan discus comments untuk github pages.

@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Hal yang sudah didapat saat ini yaitu kita dapat membuat navbar dropdown yang pada saat user mengklik tomobol tab navbar, maka akan muncul beberapa pilihan yang akan dipilih oleh user.
 
 Seperti contoh, jika user memilih tab Author maka akan muncul tampilan berikut

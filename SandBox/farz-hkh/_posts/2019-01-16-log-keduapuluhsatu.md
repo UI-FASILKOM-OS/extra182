@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Hari ini mari coba melihat log dari pengampu, apa saja yang dibutuhkan saat ini:
 
 Cek Log GitHub Project : Done,

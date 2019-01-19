@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Saat ini sedang mengerjakan proyek bersama, masih mencoba-coba untuk membuat theme yang cocok digunakan untuk gabungan proyek akhir Kita.
 
 Kita hari ini baru saja mengimplementasikan percobaan kepada tampilan seperti contoh dari yang sudah ada.
