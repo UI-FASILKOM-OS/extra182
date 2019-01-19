@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Kita juga sudah membuat salah satu landing page pada tab about .
 
 ![images](https://raw.githubusercontent.com/farz-hkh/extra182/master/assets/images/about.png)

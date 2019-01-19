@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Sebelum kita lanjut lebih dalam lagi.
 
 Pastikan tampilan yang ada pada localhost:4000 sama dengan gihub.io Kita

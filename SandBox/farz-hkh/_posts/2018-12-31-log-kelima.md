@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Nah, mari kita mulai dengan install jekyll theme
 
 Pastikan sudah ada dependency yang dibutuhkan, contohnya saya menggunakan theme hacker,

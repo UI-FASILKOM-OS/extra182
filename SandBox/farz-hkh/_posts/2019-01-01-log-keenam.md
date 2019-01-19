@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Ok, setelah sekian lama kita telah menjalankan github pages dan juga menginstall theme jekyll ke github pages kita. Sekarang mari kita mulai
 mengerjakan project kita yang sebenarnya yaitu kita akan membuat pengalaman kita sehari-hari ke githubpages extra182 yang telah
 disediakan.

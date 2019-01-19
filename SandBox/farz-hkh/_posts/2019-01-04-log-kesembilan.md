@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Halo, sebelumnya mencoba melakukan install pada windows,
 sekarang mari kita coba ke operating system lain seperti Mac.
 Pertama kita coba untuk menginstall dengan command

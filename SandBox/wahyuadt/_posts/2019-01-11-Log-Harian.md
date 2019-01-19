@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 Location : Gedung A Ruang 1225
 
 Time : 10-14

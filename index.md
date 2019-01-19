@@ -25,7 +25,7 @@ At first you need to create the basic GitHub Pages
 
 Follow this link for making the GitHub Pages
 
-[Create Github Pages](/step/GitHubPages.html).
+[Create Github Pages](/step/GitHubPages.md).
 
 ### Installing Jekyll and Ruby
 After that, we will install Jekyll and Ruby-withdevkit

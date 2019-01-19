@@ -1,3 +1,9 @@
+---
+layout: post
+author: wahyu
+---
+
+
 # LOG 30 DESEMBER 2018 PAGI
 
 Location: Home

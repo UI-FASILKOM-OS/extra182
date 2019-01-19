@@ -1,3 +1,9 @@
+---
+layout: post
+author: wahyu
+---
+
+
 # LOG 02 JANUARI 2019 MALAM
 
 

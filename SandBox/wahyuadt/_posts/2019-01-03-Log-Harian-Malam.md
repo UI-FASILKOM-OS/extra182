@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 # LOG 03 JANUARI 2019 MALAM
 
 

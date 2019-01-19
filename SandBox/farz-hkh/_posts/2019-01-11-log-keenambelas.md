@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 Setelah kita telah membuat landing page pada tab Author, mari kita lihat sejauh mana kita melangkah.
 
 Sejauh ini sudah ada tutorial untuk menginstall jekyll beserta ruby with devkit.

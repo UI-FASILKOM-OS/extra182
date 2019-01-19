@@ -1,3 +1,8 @@
+---
+layout: post
+author: farz
+---
+
 3.Setelah itu kita mengecek apa versi jekyll kita dengan menggunakan command
 
 ```PS
