@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 # LOG 28 DECEMBER 2018 MALAM
 
 1. Still trying to figure out jekyll

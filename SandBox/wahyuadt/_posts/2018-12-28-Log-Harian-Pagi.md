@@ -1,5 +1,6 @@
 ---
-url: "/PAGOOO/"
+layout: post
+author: wahyu
 ---
 
 # LOG 28 DECEMBER 2018 PAGI

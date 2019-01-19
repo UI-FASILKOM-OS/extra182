@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 Location : Gedung A R.1225
 
 Time : 11-17

@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 Location  :   R.1225 Fasilkom & Home
 
 Time  :   11-15, 18-20

@@ -1,3 +1,9 @@
+
+---
+layout: post
+author: wahyu
+---
+
 # LOG 01 JANUARI 2019 PAGI
 
 

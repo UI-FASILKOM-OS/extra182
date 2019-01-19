@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 Location  : Home
 
 Time  :   10-11, 15-17

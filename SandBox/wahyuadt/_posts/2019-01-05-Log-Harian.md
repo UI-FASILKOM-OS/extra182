@@ -1,4 +1,9 @@
-﻿Location : Warunk Upnormal Tebet
+﻿---
+layout: post
+author: wahyu
+---
+
+Location : Warunk Upnormal Tebet
 Time : 8 - 14
 
 

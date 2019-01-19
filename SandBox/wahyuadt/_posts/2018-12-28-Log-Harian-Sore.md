@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 # LOG 28 DESEMBER 2018 SORE
 
 Location : R.1225 Gedung A fasilkom

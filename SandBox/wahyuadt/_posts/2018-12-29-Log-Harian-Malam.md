@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 # LOG 29 DESEMBER 2018 MALAM
 
 Location:  Home
