@@ -3,7 +3,7 @@ layout: post
 author: wahyu
 ---
 
-# LOG 29 DESEMBER 2018 MALAM
+ LOG 29 DESEMBER 2018 MALAM
 
 Location:  Home
 Time:  18-22

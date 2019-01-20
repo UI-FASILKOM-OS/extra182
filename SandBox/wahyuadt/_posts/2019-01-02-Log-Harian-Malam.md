@@ -4,7 +4,7 @@ author: wahyu
 ---
 
 
-# LOG 02 JANUARI 2019 MALAM
+ LOG 02 JANUARI 2019 MALAM
 
 
 Location: Home

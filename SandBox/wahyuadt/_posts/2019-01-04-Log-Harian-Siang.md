@@ -3,7 +3,7 @@ layout: post
 author: wahyu
 ---
 
-# LOG 04 JANUARI 2019 SIANG
+ LOG 04 JANUARI 2019 SIANG
 
 Location : Gedung A Fasilkom Room 1225
 Time : 10-12.30
