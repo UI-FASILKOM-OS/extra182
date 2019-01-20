@@ -8,7 +8,7 @@ layout: default
 These are the steps that you need for creating your own GitHub Page
 
 
-If you already have a GitHub account, skip to step
+If you already have a GitHub account, skip to step 2
 
 ### 1. Create Your GitHub Account
 
