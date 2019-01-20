@@ -16,7 +16,7 @@ So, this break, I've been working on a project for one of my Computer Science co
 [Nardiéna's Project](https://nardienapratama.github.io/extra182/)
 [Personal GitHub Pages Website](https://nardienapratama.github.io/extra182)
 
-<h1> MyLatest Posts</h1>
+<h1> My Latest Posts</h1>
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
   {% for post in filtered_posts %}
