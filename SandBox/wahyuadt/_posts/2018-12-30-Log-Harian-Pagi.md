@@ -4,7 +4,7 @@ author: wahyu
 ---
 
 
-# LOG 30 DESEMBER 2018 PAGI
+ LOG 30 DESEMBER 2018 PAGI
 
 Location: Home
 Time: 7-9

@@ -4,7 +4,7 @@ author: wahyu
 ---
 
 
-# LOG 29 DESEMBER 2018 SIANG
+ LOG 29 DESEMBER 2018 SIANG
 
 Location : R.1225 Gedung A Fasilkom
 Time : 12-15
