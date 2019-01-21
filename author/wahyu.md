@@ -1,6 +1,6 @@
 ---
 layout: default
-short_name: wadt
+short_name: wahyu
 name: Wahyu Ananda Duli Tokan
 position: Ketua 3
 permalink: /wahyu/

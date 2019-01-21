@@ -3,20 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Extra182
+title: GitHub Pages + Jekyll Tutorial
 ---
 
 [comment]: # (This is the most platform independent comment)
 
 # {{ page.title }}
 
-`Welcome!` -- This site is for a project, made by
-Farz-hkh, NardienaPratama, WahyuADT.
-
+`Welcome!` -- This site is a tutorial page for making a simple Website by using GitHub Pages and Jekyll
 
 ---
 ### Introduction
-Hello, welcome to this Extra182 page.
+Hello and welcome
 
 In this website, you can find some tutorials regarding on how to develop your own GitHub Pages
 
