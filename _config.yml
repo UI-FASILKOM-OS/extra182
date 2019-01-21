@@ -1,8 +1,5 @@
-title: Extra182
-description: # this means to ignore newlines until "baseurl:"
-
-  Hello, we're students from the Faculty of Computer Science,
-  University of Indonesia. <br /> Hope you find our website useful. :]
+title : GitHub Pages + Jekyll Tutorial
+description : This is a tutorial page for making a simple Website by using GitHub Pages and Jekyll
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
