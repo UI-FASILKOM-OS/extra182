@@ -36,7 +36,7 @@ Next, we're gonna integrate our GitHub repository with Jekyll:
 
 
 ### Changing Jekyll Themes
-Now, as you can see, the default theme is minima - you can actually change the theme to whichever one you like. You can use one of the GitHub-Pages supported themes - the tutorial on changing to a GitHub-Pages supported theme can be found [here](/step/ChangeJekyllTheme.html) - or you can also create your own theme.
+Now, as you can see, the default theme is minima - you can actually change the theme to whichever one you like. You can use one of the GitHub-Pages supported themes - the tutorial on changing to a GitHub-Pages supported theme can be found [here](/step/ChangeJekyllTheme.html "How to Change the Jekyll Theme with a GitHub-Pages Supported Theme") - or you can also create your own theme.
 
 ### Finishing
 After that don't forget to do command

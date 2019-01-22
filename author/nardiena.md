@@ -1,17 +1,17 @@
 ---
 layout: default
 short_name: nardiena
-name: Nardiéna Althafia Pratama
+full_name: Nardiéna Althafia Pratama
 position: Ketua 1
 permalink: /nardiena/
 ---
 Welcome to my page!
 -----
 
-Hello! I'm <h1>{{ page.full_name }}</h1>. You can call me Nardién(a).
+Hello! I'm {{ page.full_name }}. You can call me {{ page.short_name }}.
 
 
-So, this break, I've been working on a project for one of my Computer Science courses, Operating Systems. My role is the <h2>{{ page.position }}</h2> If you're interested, feel free to check it out the links below!
+So, this break, I've been working on a project for one of my Computer Science courses, Operating Systems. My role is the {{ page.position }}. If you're interested, feel free to check it out the links below!
 
 [Nardiéna's Project](https://nardienapratama.github.io/extra182/)
 [Personal GitHub Pages Website](https://nardienapratama.github.io/extra182)
