@@ -1,7 +1,7 @@
 ---
 layout: default
 short_name: wahyu
-name: Wahyu Ananda Duli Tokan
+full_name: Wahyu Ananda Duli Tokan
 position: Ketua 3
 permalink: /wahyu/
 ---
@@ -12,9 +12,9 @@ Herzlich Willkommen !!
 
 Hello !!
 
-My name is <h1>{{ page.full_name }}</h1>, i am a Computer Science Student at University of Indonesia
+My name is {{ page.full_name }}, i am a Computer Science Student at University of Indonesia
 
-In this project,my role is <h2>{{ page.position }}</h2> and i made a GitHub pages and make it to run locally by Local jekyll
+In this project,my role is {{ page.position }} and i made a GitHub pages and make it to run locally by Local jekyll
 
 You can find my GitHub pages, my personal website, and my logs here
 
