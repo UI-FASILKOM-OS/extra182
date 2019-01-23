@@ -1,3 +1,8 @@
+---
+layout: post
+author: wahyu
+---
+
 Location  : Home
 
 Time    : 22-01
