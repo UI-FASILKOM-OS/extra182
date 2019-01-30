@@ -8,7 +8,7 @@ title: GitHub Pages + Jekyll Tutorial
 
 [comment]: # (This is the most platform independent comment)
 
-# {{ page.title }}
+# GitHub Pages + Jekyll Tutorial
 
 `Welcome!` -- This site is a tutorial page for making a simple Website by using GitHub Pages and Jekyll
 
